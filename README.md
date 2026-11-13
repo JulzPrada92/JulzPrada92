@@ -21,4 +21,4 @@ Healthcare by training — I'm a nurse — building software by obsession. I lea
 ## Reach me
 
 - Email: paradajulio92@gmail.com
-- Pronouns: she/her
+- Pronouns: he/him
