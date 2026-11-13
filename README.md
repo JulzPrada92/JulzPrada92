@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @JulzPrada92
-- 👀 I’m interested in the world of medicine
-- 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on other projects that help simplify our lives on the internet
-- 📫 How to reach me paradajulio92@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a nurse
+# Hi, I'm Jewelz 👋
 
-<!---
-JulzPrada92/JulzPrada92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Builder based in Miami, FL. I design and run multi-agent AI systems, and I self-host my own infrastructure.
+
+## What I'm working on
+
+- **Sparks Studio** — a multi-agent software studio: an orchestrated team of AI agents that plan, build, and verify projects end to end
+- **JPWSH** — my personal agent workspace and home of Sparkles, my AI companion character
+
+## What I work with
+
+- TypeScript / Node.js, PowerShell
+- Linux (Ubuntu, Termux on Android), Oracle Cloud VPS administration
+- Docker, nginx, Cloudflare Tunnels, Tailscale
+- Git, GitHub, Gitea
+
+## Background
+
+Healthcare by training — I'm a nurse — building software by obsession. I learn by shipping.
+
+## Reach me
+
+- Email: paradajulio92@gmail.com
+- Pronouns: she/her
